@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+
+TestResults/
+
+packages/
+=======
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+
+TestResults/
+
+packages/
+>>>>>>> 84e23f35f104708335055e56b0c7ca4a0316ddcc
