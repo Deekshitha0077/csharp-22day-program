@@ -1,6 +1,4 @@
-﻿
-
-class Bill
+﻿class Bill
 {
     decimal Consultation_Fee = 500m;
     decimal Blood_Test = 200m;
@@ -56,7 +54,7 @@ class Program
         
 
 
-        Console.WriteLine("--------------------------------------------------\n       HOSPITAL BILLING CALCULATOR\n--------------------------------------------------");
+        Console.WriteLine("-------------------------------------------------\n       HOSPITAL BILLING CALCULATOR\n--------------------------------------------------");
         Console.Write("Patient Name:");
         string name = Console.ReadLine();
         Console.Write("Patient Age:");
